@@ -1,2 +1,1 @@
-# vittual-list
-vue3 + vite + ts 实现虚拟列表（优化长列表）
+# Vue 3 + TypeScript + Vite 实现虚拟列表（长列表优化）

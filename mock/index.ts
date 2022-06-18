@@ -1,6 +1,6 @@
 import Mock from 'mockjs'
 
-function dataList(num: number = 20) {
+function dataList(num: number = 100000) {
     return Mock.mock({
         [`list|${num}`]: [{
             'id': '@guid',
